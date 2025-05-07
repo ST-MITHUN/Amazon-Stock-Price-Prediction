@@ -84,7 +84,9 @@ files.download('forecast.csv')
 ```
 ScreenShots:
 
-!(img.png)
+![image](https://github.com/user-attachments/assets/2196a304-9379-49aa-ad8c-7f5c9452c654)
+
+
 
 ![image](https://github.com/user-attachments/assets/5c5abd50-d5d0-491a-b7d9-4c79035e0be4)
 
